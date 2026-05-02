@@ -23,8 +23,8 @@ import service.CourseService;
 import service.ScoreService;
 import service.StudentService;
 import service.impl.CourseServiceImpl;
-import service.impl.ScoreServiceImpl;
-import service.impl.StudentServiceImpl;
+import service.ScoreServiceImpl;
+import service.StudentServiceImpl;
 
 import java.util.List;
 

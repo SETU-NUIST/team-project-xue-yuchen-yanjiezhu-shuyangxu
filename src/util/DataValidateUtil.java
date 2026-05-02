@@ -35,5 +35,3 @@ public class DataValidateUtil {
         return credit != null && CREDIT_PATTERN.matcher(credit.trim()).matches();
     }
 }
-
-

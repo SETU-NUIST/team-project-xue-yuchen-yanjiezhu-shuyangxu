@@ -18,7 +18,7 @@ import javafx.scene.layout.GridPane;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import service.StudentService;
-import service.impl.StudentServiceImpl;
+import service.StudentServiceImpl;
 
 import java.util.List;
 
